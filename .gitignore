@@ -3,3 +3,6 @@
 
 #Locally ignore tmp directory
 tmp/*
+
+#Locally ignore tmp file
+*.tmp
